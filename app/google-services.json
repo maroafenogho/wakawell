@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "115362532315",
+    "firebase_url": "https://waka-waka-50196.firebaseio.com",
+    "project_id": "waka-waka-50196",
+    "storage_bucket": "waka-waka-50196.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115362532315:android:d4b01221e8afb97c6df5fe",
+        "android_client_info": {
+          "package_name": "com.maro.waka_well"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115362532315-fkvc86eh45d19t5r5ei9aklsf1ae6rlg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maro.waka_well",
+            "certificate_hash": "fc8c0dd4145d605448bb2f08fdafc1fa5b9326f0"
+          }
+        },
+        {
+          "client_id": "115362532315-hmrgm5vjpkmamc57cb6kvjop1mnrsfmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF9t-UOBKESVsVOoWTNjxHA9iD8qrxNDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115362532315-hmrgm5vjpkmamc57cb6kvjop1mnrsfmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
